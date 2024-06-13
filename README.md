@@ -61,6 +61,12 @@ ExecStart=npm run start -- --port=3000
 
       4. pm2
 
-
+# deploy BE
+  1. tool version >= version
+  2. configuraion file 
+  3. config db [srpingboot] 
+  4. build
+  5. run
+  6. check
 
 # cicd
